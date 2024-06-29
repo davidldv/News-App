@@ -1,8 +1,8 @@
 const Footer = () => {
   return (
-    <footer className="flex flex-col items-center justify-between max-w-6xl py-10 mx-6 space-y-4 md:flex-row md:justify-between md:space-y-0">
+    <footer className="flex flex-col items-center justify-between max-w-6xl px-6 py-10 mx-auto space-y-4 md:flex-row md:justify-between md:space-y-0">
       <div className="text-sm text-center text-slate-700">
-        © 2024 Yo. All Rights Reserved.
+        © 2024 Elite Coding BootCamp. All Rights Reserved.
       </div>
       <div className="flex space-x-4">
         <a href="https://github.com/davidldv" target="_blank">
